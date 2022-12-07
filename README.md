@@ -8,6 +8,8 @@ Frontend
   - **HTML**
 
     - https://html.com/
+    
+    - https://www.youtube.com/playlist?list=PLM-Y_YQmMEqDcV8cJcosRsqJJNrhlpwzb
 
     - https://developer.mozilla.org/en-US/docs/Web/HTML
 
